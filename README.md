@@ -10,3 +10,6 @@ A [src/main.cpp](src/main.cpp) is the source for the tests described in the arti
 
 The image folder contains the test images used.
 
+## License
+Contact me: egladysh at gmail
+
