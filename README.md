@@ -8,5 +8,5 @@ See the article [the article](doc/article.pdf) for details.
 A [src/main.cpp](src/main.cpp) is the source for the tests described in the article. It depends on the [png++](http://www.nongnu.org/pngpp/) library.
 
 
-The image folder has the test images used.
+The image folder contains the test images used.
 
